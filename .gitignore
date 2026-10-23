@@ -1,0 +1,8 @@
+# 提出用リポジトリには日本語のみ載せる
+요건정의서.md
+사양서.md
+그래프활용전략.md
+.DS_Store
+.env
+.env.*
+node_modules/
